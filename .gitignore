@@ -1,0 +1,9 @@
+cmd/
+bin/
+initial-data/
+webapp/*
+!webapp/go
+!webapp/docs
+!webapp/frontend
+!webapp/sql
+webapp/sql/initial.sql
